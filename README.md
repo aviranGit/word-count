@@ -33,6 +33,10 @@ Docker support:
     2.1 docker build -t myimage .
     2.2 docker run -d --name mycontainer -p 80:80 myimage
  
- 
+Testing- 
+1. I used the TestClient library to test the endpoints. 
+2. To run the tests - 'pytest' in the terminal. 
+
+
 For any questions, feel free to contact me:)
 Aviran
