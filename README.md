@@ -11,7 +11,7 @@ The service have two endpoints:
   
 Installation-
 
-1. Clone the project. run "git clone https://github.com/aviranGit/JobMatcher.git"
+1. Clone the project. run "git clone https://github.com/aviranGit/word-count.git"
 2. Install app requirements - run "pip install -r requirements.txt"
 3. Navigate to src folder. "cd src"
 4. In order to run the server - run "uvicorn main:app --reload"
